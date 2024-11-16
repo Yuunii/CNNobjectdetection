@@ -1,3 +1,8 @@
+"""
+Notebook GPU issues need to run in Colab
+"""
+
+
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.datasets import cifar10
